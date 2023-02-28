@@ -8,7 +8,7 @@
       @squatto | github.com/squatto
 ```
 
-### Co-founder / Head of Technology at Quadra, Inc.  
+### Co-founder/Head of Technology at Quadra, Inc.  
 
 [https://quadraecom.com](https://quadraecom.com) / [@QuadraEcommerce](https://github.com/QuadraEcommerce)
 
