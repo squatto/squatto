@@ -14,6 +14,6 @@
 
 ---
 
-![squatto's GitHub stats](https://github-readme-stats.vercel.app/api?username=squatto&count_private=true&show_icons=true&theme=nord&custom_title=squatto%27s%20GitHub%20Stats)
+[![squatto's GitHub stats](https://github-readme-stats.vercel.app/api?username=squatto&count_private=true&show_icons=true&theme=nord&custom_title=squatto%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![squatto's Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,alpinejs,react,aws,nginx,git,github,linux,bash,wordpress,idea,md,raspberrypi,stackoverflow)](https://skillicons.dev)
