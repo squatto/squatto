@@ -10,7 +10,7 @@
 
 ### Co-founder/Head of Technology at Quadra, Inc.  
 
-[https://quadraecom.com](https://quadraecom.com) / [@QuadraEcommerce](https://github.com/QuadraEcommerce)
+[https://goquadra.com](https://goquadra.com) / [@goquadra](https://github.com/goquadra)
 
 ---
 
