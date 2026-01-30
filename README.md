@@ -8,9 +8,9 @@
       @squatto | github.com/squatto
 ```
 
-### Co-founder/Head of Technology at Quadra, Inc.  
+### Sr. Software Engineer - Backend at BambooHR
 
-[https://goquadra.com](https://goquadra.com) / [@goquadra](https://github.com/goquadra)
+[https://bamboohr.com](https://bamboohr.com) / [@BambooHR](https://github.com/BambooHR)
 
 ---
 
